@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0.022" tests="5" errors="0" skipped="1" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Imen.Helali\git\JunitJenkins\junit-java-example-master\target\test-classes;C:\Users\Imen.Helali\git\JunitJenkins\junit-java-example-master\target\classes;C:\Users\Imen.Helali\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Imen.Helali\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="user.country.format" value="TN"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="FR"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.2\bin"/>
+    <property name="sun.java.command" value="C:\Users\IMEN~1.HEL\AppData\Local\Temp\surefire16761678206896498704\surefirebooter8265005155211049857.jar C:\Users\Imen.Helali\AppData\Local\Temp\surefire16761678206896498704 2019-04-01T11-22-02_395-jvmRun1 surefire9384377760218112465tmp surefire_08830386247096377136tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Imen.Helali\git\JunitJenkins\junit-java-example-master\target\test-classes;C:\Users\Imen.Helali\git\JunitJenkins\junit-java-example-master\target\classes;C:\Users\Imen.Helali\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Imen.Helali\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Imen.Helali"/>
+    <property name="user.language" value="fr"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2019-01-15"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.2"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Imen.Helali\git\JunitJenkins\junit-java-example-master"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\IMEN~1.HEL\AppData\Local\Temp\surefire16761678206896498704\surefirebooter8265005155211049857.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.2+9-LTS"/>
+    <property name="user.name" value="Imen.Helali"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="localRepository" value="C:\Users\Imen.Helali\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\IMEN~1.HEL\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.2"/>
+    <property name="user.dir" value="C:\Users\Imen.Helali\git\JunitJenkins\junit-java-example-master"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.2\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\AOMEI Backupper;C:\Program Files\TortoiseSVN\bin;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files\Microsoft SQL Server\120\DTS\Binn\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\;C:\Program Files\Java\jdk1.8.0_201\bin;C:\dev\tools\apache-maven-3.6.0\bin;C:\Program Files\Git\cmd;C:\dev\tools;C:\Users\Imen.Helali\AppData\Local\Microsoft\WindowsApps;C:\Users\Imen.Helali\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vm.version" value="11.0.2+9-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+  <testcase name="testSum" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
+  <testcase name="testEqual" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0">
+    <skipped/>
+  </testcase>
+  <testcase name="testSubstraction" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
+  <testcase name="testDivisionException" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
+  <testcase name="testDivison" classname="com.javacodegeeks.examples.junitmavenexample.CalculatorTest" time="0"/>
+</testsuite>
